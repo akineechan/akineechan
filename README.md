@@ -1,4 +1,4 @@
-### hi, im aki
+# hi, im aki
 
 ## about me
 
@@ -7,5 +7,5 @@
     Never finishes projects.
 
 
-### fish
+## fish
 also fish
