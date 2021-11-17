@@ -10,7 +10,8 @@
 
 ## socials
     aki#9001 - Discord
-    @dbg64x - Twitter
+    @dbg64x - Twitter (inactive)
+    asuka2k - SpaceHey
     akiii_osu - Twitch
     
 ## website(s)
