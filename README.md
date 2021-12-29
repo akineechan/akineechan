@@ -14,10 +14,8 @@
     
 ## website(s)
     asuka2k.life (WIP, main site)
-    fireguard.one (WIP, secondary site for anything)
-    asuka2k.me   (WIP, asuka2k.life mirror)
-    lucidcheats.com (current cheat)
     monarchcheats.com (to be released cheat)
+    cppcraft.one (minecraft project)
     
 ## git instances
     git.monarchcheats.com (using gogs)
