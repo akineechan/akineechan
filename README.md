@@ -7,12 +7,14 @@
 
 
 ## socials
-    aki#9001 - Discord
+    akii#9698 - Discord
+    asuka#3824 - Alt Discord
     @dbg64x - Twitter (inactive)
+    @akiii_osu - Twitter (dead)
     asuka2k - SpaceHey
     akiii_osu - Twitch
     
-## website(s)
+## websites
     asuka2k.life (WIP, main site)
     monarchcheats.com (to be released cheat)
     cppcraft.one (minecraft project)
