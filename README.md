@@ -1,5 +1,3 @@
-# hi, im aki
-
 ## about me
     16, Germany, 24/7 Drunk
     Codes C98, C++ (usually C++03 or C++17)
@@ -21,8 +19,9 @@
     lucidcheats.com (current cheat)
     monarchcheats.com (to be released cheat)
     
-## private git
-    git.monarchcheats.com (using gogs, free for everyone)
+## git instances
+    git.monarchcheats.com (using gogs)
+    vcs.cppcraft.one (using gitea)
 
 ## fish
     also fish
