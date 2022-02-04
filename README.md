@@ -7,7 +7,7 @@
 
 
 ## socials
-    akii#9698 - Discord
+    aki#2000- Discord
     asuka#3824 - Alt Discord
     @dbg64x - Twitter (inactive)
     @akiii_osu - Twitter (dead)
