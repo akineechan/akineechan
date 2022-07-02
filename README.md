@@ -10,8 +10,8 @@
 
 ## socials
     aki#9001 - Discord
-    @dbg64x - Twitter (inactive)
-    https://asuka2k.life
+    akarinb@escargot.chat - Escargot.Chat
+    538786 - kICQ.ru
     
 ## why i code
     i code for the fun, not the money, although money is nice
