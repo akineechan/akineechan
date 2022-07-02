@@ -11,13 +11,9 @@
 ## socials
     aki#9001 - Discord
     @dbg64x - Twitter (inactive)
-    @akiii_osu - Twitter (dead)
-    asuka2k - SpaceHey
-    akiii_osu - Twitch
     
 ## websites
     asuka2k.life (WIP, main site)
-    akarinb.space (random ting)
     monarchcheats.com (to be released cheat)
     
 ## why i code
