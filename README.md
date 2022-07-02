@@ -1,9 +1,12 @@
 ## about me
     17, Germany, 24/7 Drunk
-    Codes C99, C++ and C#
-    Never finishes projects.
-    professional retard.
-    rarely uses github anymore.
+    they/them or xier/xiem (he/it is also okey ig)
+    agender and pansexual
+    professional retard
+    
+## langs
+    i code C/C++, C#, Java and TypeScript
+    i speak English and German
 
 ## socials
     aki#9001 - Discord
