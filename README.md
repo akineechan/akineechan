@@ -1,5 +1,5 @@
 ## about me
-    17, Germany, 24/7 Drunk
+    17, Germany, Chain Smoker
     they/them or xier/xiem (he/it is also okey ig)
     agender and pansexual
     professional retard
