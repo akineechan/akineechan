@@ -26,4 +26,4 @@
      `\\´´\¸.·´
 ```
 
-[![Discord](https://discord.c99.nl/widget/theme-3/644210317861191680.png)]()
+[![Discord](https://discord.c99.nl/widget/theme-2/587035769424707586.png)]()
