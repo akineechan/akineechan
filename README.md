@@ -9,7 +9,7 @@
     i speak English and German
 
 ## socials
-    AngelHoney#0069 - Discord
+    akii#1995 - Discord
     akarinb@escargot.chat - Escargot.Chat
     538786 - kICQ.ru
     
