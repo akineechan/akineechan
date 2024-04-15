@@ -1,13 +1,14 @@
 
 #### New GitHub Account: [EthernalRaine](https://github.com/EthernalRaine)
+
+## old about me (updated 2024)
 ----
 ## about me
-    17, Germany, Chain Smoker and Retard
-    they/them or xier/xiem (he/it is also okey ig)
-    agender and pansexual
+    18, Germany, gay as fuck i guess
+    she/her or they/them 
+    trans mtf (average CS major)
 
-## socials
-    akii#1995 - Discord
+## old socials
     akii - PhoenixIM (iwarg.ddns.net)
     akarinb@escargot.chat - Escargot.Chat
     538786 - kICQ.ru
@@ -21,5 +22,3 @@
  `·.¸ `·  ¸.·´\`·¸)
      `\\´´\¸.·´
 ```
-
-[![Discord](https://discord.c99.nl/widget/theme-2/587035769424707586.png)]()
